@@ -41,7 +41,7 @@ Ya hecho esto, es posible emular la aplicacion mediante el browser preferido. Pa
 Se debera aceptar la instalacion del modulo lab para que este ambiente de emulacion se ejecute de manera adecuada
 
 
-###E2E 
+### E2E 
 
 Para instalar el testing e2e, se debera mover el archivo .rar y descomprimr en la raiz del proyecto. Luego se ejecutara con el comando 
 ```npn run e2e```
